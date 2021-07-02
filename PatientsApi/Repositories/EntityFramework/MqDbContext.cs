@@ -26,5 +26,10 @@ namespace PatientsApi.Repositories.EntityFramework
         public void CommitTransaction() => this.Database.CommitTransaction();
 
         public void RollbackTransaction() => this.Database.RollbackTransaction();
+
+        public override int SaveChanges()
+        {
+            return base.SaveChanges();
+        }
     }
 }

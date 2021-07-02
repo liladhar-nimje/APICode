@@ -10,6 +10,7 @@ namespace PatientsApi.Models
         public int SuggestedActionId { get; set; }
         public int HealthDetailId { get; set; }
         public string Action { get; set; }
+        public string Priority { get; set; }
 
         public virtual HealthDetail HealthDetail { get; set; }
     }

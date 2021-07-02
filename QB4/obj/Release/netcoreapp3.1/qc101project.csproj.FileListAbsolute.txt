@@ -1,0 +1,9 @@
+D:\30 Hacks\medqbiterspatientsapi\QB4\bin\Release\netcoreapp3.1\qc101project.deps.json
+D:\30 Hacks\medqbiterspatientsapi\QB4\bin\Release\netcoreapp3.1\qc101project.dll
+D:\30 Hacks\medqbiterspatientsapi\QB4\bin\Release\netcoreapp3.1\qc101project.pdb
+D:\30 Hacks\medqbiterspatientsapi\QB4\obj\Release\netcoreapp3.1\qc101project.csprojAssemblyReference.cache
+D:\30 Hacks\medqbiterspatientsapi\QB4\obj\Release\netcoreapp3.1\qc101project.AssemblyInfoInputs.cache
+D:\30 Hacks\medqbiterspatientsapi\QB4\obj\Release\netcoreapp3.1\qc101project.AssemblyInfo.cs
+D:\30 Hacks\medqbiterspatientsapi\QB4\obj\Release\netcoreapp3.1\qc101project.csproj.CoreCompileInputs.cache
+D:\30 Hacks\medqbiterspatientsapi\QB4\obj\Release\netcoreapp3.1\qc101project.dll
+D:\30 Hacks\medqbiterspatientsapi\QB4\obj\Release\netcoreapp3.1\qc101project.pdb
